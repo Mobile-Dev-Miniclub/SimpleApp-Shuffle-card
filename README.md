@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Screenshot
+
+<span align="center"><img width="180px" height="360px" src="https://github.com/Mobile-Dev-Miniclub/Tugas1-SimpleApp-Shuffle-card/blob/master/assets/1.png?raw=true"></span>
+<span align="center"><img width="180px" height="360px" src="https://github.com/Mobile-Dev-Miniclub/Tugas1-SimpleApp-Shuffle-card/blob/master/assets/2.png?raw=true"></span>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
